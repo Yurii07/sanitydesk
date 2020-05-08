@@ -1,0 +1,505 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "name": "Cherkasy",
+      "state_id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Chernihiv",
+      "state_id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Chernivtsi",
+      "state_id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Dnipro",
+      "state_id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Donetsk",
+      "state_id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Ivano-Frankivsk",
+      "state_id": "6"
+    },
+    {
+      "id": "7",
+      "name": "Kharkiv",
+      "state_id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Kherson",
+      "state_id": "8"
+    },
+    {
+      "id": "9",
+      "name": "Khmelnytskyi",
+      "state_id": "9"
+    },
+    {
+      "id": "10",
+      "name": "Kiev",
+      "state_id": "10"
+    },
+    {
+      "id": "11",
+      "name": " Kropyvnytskyi",
+      "state_id": "11"
+    },
+    {
+      "id": "12",
+      "name": "Luhansk",
+      "state_id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Lviv",
+      "state_id": "13"
+    },
+    {
+      "id": "14",
+      "name": "Mykolaiv",
+      "state_id": "14"
+    },
+    {
+      "id": "15",
+      "name": "Odessa",
+      "state_id": "15"
+    },
+    {
+      "id": "16",
+      "name": "Poltava",
+      "state_id": "16"
+    },
+    {
+      "id": "17",
+      "name": "Rivne",
+      "state_id": "17"
+    },
+    {
+      "id": "18",
+      "name": "Sumy",
+      "state_id": "18"
+    },
+    {
+      "id": "19",
+      "name": "Ternopil",
+      "state_id": "19"
+    },
+    {
+      "id": "20",
+      "name": "Vinnytsia",
+      "state_id": "20"
+    },
+    {
+      "id": "21",
+      "name": "Lutsk",
+      "state_id": "21"
+    },
+    {
+      "id": "22",
+      "name": "Uzhhorod",
+      "state_id": "22"
+    },
+    {
+      "id": "23",
+      "name": "Zaporizhia",
+      "state_id": "23"
+    },
+    {
+      "id": "24",
+      "name": "Zhytomyr",
+      "state_id": "24"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "hasc": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "states": [
+    {
+      "id": "1",
+      "hasc": "CK",
+      "name": "Cherkasy Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "2",
+      "hasc": "CH",
+      "name": "Chernihiv Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "3",
+      "hasc": "CV",
+      "name": " Chernivtsi Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "4",
+      "hasc": "DP",
+      "name": "Dnipropetrovsk Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "5",
+      "hasc": "DT",
+      "name": "Donetsk Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "6",
+      "hasc": "IF",
+      "name": "Ivano-Frankivsk Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "7",
+      "hasc": "KK",
+      "name": "Ivano-Frankivsk Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "8",
+      "hasc": "KS",
+      "name": "Kherson Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "9",
+      "hasc": "KM",
+      "name": "Khmelnytskyi Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "10",
+      "hasc": "KV",
+      "name": "Kiev Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "11",
+      "hasc": "KH",
+      "name": " Kirovohrad Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "12",
+      "hasc": "LH",
+      "name": "Luhansk Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "13",
+      "hasc": "LV",
+      "name": "Lviv Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "14",
+      "hasc": "MY",
+      "name": "Mykolaiv Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "15",
+      "hasc": "OD",
+      "name": "Odessa Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "16",
+      "hasc": "PL",
+      "name": "Poltava Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "17",
+      "hasc": "RV",
+      "name": "Rivne Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "18",
+      "hasc": "SM",
+      "name": "Sumy Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "19",
+      "hasc": "TP",
+      "name": "Ternopil Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "20",
+      "hasc": "VI",
+      "name": "Vinnytsia Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "21",
+      "hasc": "VO",
+      "name": "Volyn Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "22",
+      "hasc": "ZK",
+      "name": "Zakarpattia Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "23",
+      "hasc": "ZP",
+      "name": "Zaporizhia Oblast",
+      "country_id": "1"
+    },
+    {
+      "id": "24",
+      "hasc": "ZT",
+      "name": "Zhytomyr Oblast",
+      "country_id": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john.smith@gmail.com",
+      "phone_number": "380681234567",
+      "address": null,
+      "about_me": null,
+      "country_id": "1",
+      "state_id": "12",
+      "city_id": "12",
+      "createdAt": 1543783744211
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "phone_number": "380998910111",
+      "address": null,
+      "about_me": null,
+      "country_id": "1",
+      "state_id": "16",
+      "city_id": "16",
+      "createdAt": 1543783745664
+    },
+    {
+      "id": "3",
+      "name": "Randolph Franklin",
+      "email": "randolph.franklin@gmail.com",
+      "phone_number": "380631213141",
+      "address": null,
+      "about_me": null,
+      "country_id": "1",
+      "state_id": "13",
+      "city_id": "13",
+      "createdAt": 1543783746465
+    },
+    {
+      "name": "asd",
+      "email": "asdasd@asdfasdsf.com",
+      "phone_number": "80673332222",
+      "address": "",
+      "about_me": "",
+      "country_id": "Ukraine",
+      "state_id": "Donetsk Oblast",
+      "city_id": "Ivano-Frankivsk",
+      "createdAt": 1562876927546,
+      "id": "vFig2s2"
+    },
+    {
+      "name": "asd",
+      "email": "asdasd@asd.com",
+      "phone_number": "80673332222",
+      "address": "",
+      "about_me": "",
+      "country_id": "Ukraine",
+      "state_id": "Dnipropetrovsk Oblast",
+      "city_id": "Ivano-Frankivsk",
+      "createdAt": 1563464322612,
+      "id": "Ti3wyNA"
+    },
+    {
+      "name": "test",
+      "email": "asdasd@asdfasdsf.com",
+      "phone_number": "80673332222",
+      "address": "",
+      "about_me": "",
+      "country_id": "Ukraine",
+      "state_id": "Dnipropetrovsk Oblast",
+      "city_id": "Ivano-Frankivsk",
+      "createdAt": 1563531947630,
+      "id": "4Bl1ije"
+    },
+    {
+      "name": "testtttttt",
+      "email": "asdasd@asdfasdsf.com",
+      "phone_number": "80673332222",
+      "address": "",
+      "about_me": "",
+      "country_id": "Ukraine",
+      "state_id": " Chernivtsi Oblast",
+      "city_id": "Chernivtsi",
+      "createdAt": 1563532103467,
+      "id": "dNl6DBw"
+    },
+    {
+      "name": "testone",
+      "email": "asdasd@asdfasdsf.com",
+      "phone_number": "80673332222",
+      "address": "",
+      "about_me": "",
+      "country_id": "Ukraine",
+      "state_id": "Chernihiv Oblast",
+      "city_id": "Dnipro",
+      "createdAt": 1563532922142,
+      "id": "TWy89ae"
+    },
+    {
+      "name": "testtwo",
+      "email": "asdasd@asdfasdsf.com",
+      "phone_number": "80673332222",
+      "address": "",
+      "about_me": "",
+      "country_id": "Ukraine",
+      "state_id": " Chernivtsi Oblast",
+      "city_id": "Donetsk",
+      "createdAt": 1563533279783,
+      "id": "e_LUOA8"
+    }
+  ],
+  "books": [
+    {
+      "title": "asd12",
+      "rating": "23",
+      "id": 1
+    },
+    {
+      "title": "HotfixHeaderLangMenu",
+      "rating": "3",
+      "createdAt": 1588924603309,
+      "id": 2
+    },
+    {
+      "title": "asd",
+      "rating": "2",
+      "date": null,
+      "createdAt": 1588930387108,
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "rating": "4.5",
+      "date": "",
+      "createdAt": 1588932036780,
+      "id": 4
+    },
+    {
+      "title": "asd",
+      "rating": "4.5",
+      "date": "",
+      "createdAt": 1588934829098,
+      "id": 5
+    },
+    {
+      "title": "asd",
+      "rating": "4.5",
+      "date": "",
+      "createdAt": 1588934884052,
+      "id": 6
+    },
+    {
+      "title": "asd",
+      "rating": "3",
+      "date": "",
+      "createdAt": 1588934963491,
+      "id": 7
+    },
+    {
+      "title": "asd",
+      "rating": "7",
+      "date": "",
+      "createdAt": 1588935067299,
+      "id": 8
+    },
+    {
+      "title": "asd",
+      "rating": "4",
+      "date": "",
+      "createdAt": 1588935249734,
+      "id": 9
+    },
+    {
+      "title": "asd",
+      "rating": "4",
+      "date": "",
+      "createdAt": 1588936059097,
+      "id": 10
+    },
+    {
+      "title": "asd",
+      "rating": "ad",
+      "date": "",
+      "createdAt": 1588936520430,
+      "id": 11
+    },
+    {
+      "title": "asd",
+      "rating": "asd",
+      "date": "",
+      "createdAt": 1588936550812,
+      "id": 12
+    },
+    {
+      "title": "asd",
+      "rating": "asd",
+      "date": "a",
+      "createdAt": 1588936891532,
+      "id": 13
+    },
+    {
+      "title": "asd",
+      "rating": "asd",
+      "date": "",
+      "createdAt": 1588937425537,
+      "id": 14
+    },
+    {
+      "title": "HotfixHeaderLangMenu",
+      "rating": "asd",
+      "date": "14:31:17",
+      "createdAt": 1588937481664,
+      "id": 15
+    },
+    {
+      "title": "s",
+      "rating": "s",
+      "date": "14:34:47",
+      "createdAt": 1588937691270,
+      "id": 16
+    },
+    {
+      "title": "s",
+      "rating": "s",
+      "date": "14:35:48",
+      "createdAt": 1588937753873,
+      "id": 17
+    }
+  ]
+}

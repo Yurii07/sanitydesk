@@ -1,0 +1,15 @@
+{
+  "name": "@temy/mock-server",
+  "version": "1.0.0",
+  "description": "Used to mock server API calls, based on json-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yirii",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
