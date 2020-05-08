@@ -1,3 +1,24 @@
+   Write a simple application based on React that can be communicate through REST. The
+   application should allow the user (without sign in) to manage notes (list, get, add, delete)
+   with simple text in it (and title and dates). Only interface is a part of the task. Remember to
+   structure your project as clearly as possible thinking about other people that may work on
+   your project too. Place your project on Git, preferably with commits that will show the
+   project progress. For styling use Less or Sass and go mobile first (do only mobile). Build
+   frontend with Webpack.
+   2. Additionally for your application in task 1 extend application to have a sign in page and
+   describe us how to good authenticate user in React based application.
+   
+   in directory public\mock-server run:
+* `npm run start` - run json server on http://localhost:8080
+
+   In the project directory, you can run:
+* `npm run start` - run mock server on http://localhost:3000
+
+2) Use React Router in a web app for authenticate user 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
